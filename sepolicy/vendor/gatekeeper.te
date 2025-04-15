@@ -1,3 +1,0 @@
-# gatekeeper.te
-
-allow hal_gatekeeper_default vendor_dmabuf_qseecom_heap_device:chr_file { read open ioctl };
